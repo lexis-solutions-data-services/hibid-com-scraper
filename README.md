@@ -28,7 +28,24 @@ This Apify actor scrapes auction information from [HiBid.com](https://www.hibid.
 | Stat | Value |
 |------|-------|
 | **Version** | `0.0.4` |
-| **Last Update** | Nov 30, 2025 |
+| **Last Update** | Dec 1, 2025 |
+
+---
+
+
+
+## 💻 Integration Examples
+
+This repository includes example code showing how to integrate the `hibid-com-scraper` actor into your projects.
+
+You can find example implementations in the [`examples/`](./examples) folder:
+- **TypeScript/JavaScript**: See [`examples/typescript/`](./examples/typescript) for a complete TypeScript example
+- **Python**: See [`examples/python/`](./examples/python) for a complete Python example
+
+Each example includes:
+- Ready-to-use code templates
+- Setup instructions
+- Documentation links
 
 ---
 
